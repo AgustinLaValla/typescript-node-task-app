@@ -5,7 +5,7 @@ npm install
 
 ## To transpile typescript
 ```
-npm run dev
+npm run ts
 ```
 
 ## To copy HTML templates and CSS styles
@@ -14,6 +14,6 @@ npm run templatebuild
 ```
 
 ## To run the app
-````
+```
 npm start
 ```
